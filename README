@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1076
+
+This plugin is a c source code browser which uses the standard cscope utility. It is similar to the csqf option provided in vim. But it has an additional advantage of maintaining the tag stacks which is not available while using csqf.
+This script doesn't create a cscope connection. The user needs to create a cscope connection before using this script.
+It is very much similar to the cscope window of emacs/xemacs.
